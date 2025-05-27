@@ -1,0 +1,3 @@
+This is file 2 
+created in Github 
+and cloned into local file.
